@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me
 I'm a Computer Science student from Portugal, currently living in Belgium 📍
 - 🌱 I’m currently learning software and web development
-- 😄 Pronouns: She / Her
 - 🎨 I have a bachelor's degree in graphic design
+- 😄 Pronouns: She / Her
 
 ---
 
@@ -63,9 +63,10 @@ I'm a Computer Science student from Portugal, currently living in Belgium 📍
 
 ### 🔥 Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=randmon&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=randmon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randmon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randmon&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
