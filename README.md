@@ -19,16 +19,20 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   
-<div id="badges">
-  <a href="https://www.linkedin.com/in/cristinacmarques/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/randm0n">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=randmon&style=flat-square&color=blue" alt=""/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/cristinacmarques/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/randm0n">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
   
+  <a href="https://www.buymeacoffee.com/randmon" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=randmon&style=flat-square&color=blue" alt=""/>
   <h2>Hello 👋</h2>
 </div>
 
