@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me
-I'm a Computer Science student from Portugal, currently living in Belgium 📍
-- 🌱 I’m currently learning software and web development
-- 🎨 I have a bachelor's degree in graphic design
+I'm a developer from Portugal, currently living in Belgium 📍
+- 🌱 Software and web development
+- 🎨 I have two degrees: Design and Computer Science
 - 😄 Pronouns: She / Her
 
 ---
