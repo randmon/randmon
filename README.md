@@ -16,7 +16,6 @@
 - 📍 Born in Portugal and living in Belgium
 - 🌱 Learning about software and web technologies
 - 🎮 I also love art and video games
-- 👩‍💻 Software developer at [Info Support](https://infosupport.com/)
 
 
 ## Tools
